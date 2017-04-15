@@ -1,3 +1,9 @@
+properties-cpp (0.0.1~git20140730-1) unstable; urgency=medium
+
+  * Release to debian
+
+ -- Shengjing Zhu <i@zhsj.me>  Sat, 15 Apr 2017 10:08:00 +0000
+
 properties-cpp (0.0.1+14.10.20140730-0ubuntu1) utopic; urgency=low
 
   [ Marcus Tomlinson ]

@@ -4,9 +4,7 @@ Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 Build-Depends: cmake,
                debhelper (>= 9),
                doxygen,
-               google-mock,
                graphviz,
-               libgtest-dev,
 Standards-Version: 3.9.5
 Section: libs
 Homepage: https://launchpad.net/properties-cpp
