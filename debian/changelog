@@ -1,3 +1,10 @@
+properties-cpp (0.0.1~git20140730-2) stretch; urgency=medium
+
+  * enable tests
+  * update policy to 4.0.0
+
+ -- Shengjing Zhu <i@zhsj.me>  Sat, 24 Jun 2017 11:27:58 +0800
+
 properties-cpp (0.0.1~git20140730-1) unstable; urgency=medium
 
   * Release to debian
